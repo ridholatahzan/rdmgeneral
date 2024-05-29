@@ -1,9 +1,9 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-$host = "localhost";
-$databaseuser = "u1447849_rdm";
-$databasename = "u1447849_rdm";
-$dbpassword = "rdm_mis@123";
+$host = "192.168.100.30";
+$databaseuser = "root";
+$databasename = "rdm";
+$dbpassword = "casaos";
 define("DB_SERVER",$host);
 define("DB_USERNAME",$databaseuser);
 define("DB_PASSWORD",$dbpassword);
