@@ -1,0 +1,7 @@
+ERROR - 2021-08-16 21:12:31 --> Query error: Multiple primary key defined - Invalid query: ALTER TABLE `e_administrasi`  ADD PRIMARY KEY (`administrasi_id`);
+ERROR - 2021-08-16 21:12:31 --> Query error: Duplicate column name 'sistem_penilaian' - Invalid query: ALTER TABLE `e_lembaga`
+	ADD `sistem_penilaian` INT(1) DEFAULT '1'
+ERROR - 2021-08-16 21:12:31 --> Query error: Duplicate column name 'semester_jenis' - Invalid query: ALTER TABLE `e_semester`
+	ADD `semester_jenis` INT(1) DEFAULT '1'
+ERROR - 2021-08-16 21:12:31 --> Query error: Duplicate column name 'semester_jenis' - Invalid query: ALTER TABLE `e_semester`
+	ADD `semester_jenis` INT(1) DEFAULT '1'

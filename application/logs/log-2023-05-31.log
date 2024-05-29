@@ -1,0 +1,2 @@
+ERROR - 2023-05-31 12:11:05 --> Query error: Duplicate entry 'RXdPSlZGN2lPS3h1cXBFNklLTmZWQT09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);
+ERROR - 2023-05-31 12:11:06 --> Query error: Duplicate entry '2021-1-74-2021100000000000007-5-PH 1' for key 'tahunajaran_id' - Invalid query: ALTER TABLE `e_komponennilai` ADD UNIQUE KEY `tahunajaran_id` (`tahunajaran_id`,`semester_id`,`mapel_id`,`kelas_id`,`jenisnilai_id`,`komponennilai_nama`);

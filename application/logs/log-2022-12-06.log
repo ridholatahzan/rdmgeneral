@@ -1,0 +1,491 @@
+ERROR - 2022-12-06 06:49:26 --> Query error: Duplicate entry '2022100000000012292' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012292, '2042600000203', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:26 --> Query error: Duplicate entry '2022100000000012293' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012293, '2042600000204', 2022100000000000465, 93)
+ERROR - 2022-12-06 06:49:26 --> Query error: Duplicate entry '2022100000000012294' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012294, '2042600000205', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:26 --> Query error: Duplicate entry '2022100000000012295' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012295, '118', 2022100000000000465, 85)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012296' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012296, '119', 2022100000000000465, 75)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012297' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012297, '2042600000206', 2022100000000000465, 90)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012298' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012298, '2042600000207', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012299' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012299, '2042600000260', 2022100000000000465, 93)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012300' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012300, '2042600000261', 2022100000000000465, 90)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012301' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012301, '2042600000210', 2022100000000000465, 94)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012302' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012302, '2042600000262', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012303' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012303, '2042600000263', 2022100000000000465, 94)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012304' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012304, '2042600000264', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012305' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012305, '2042600000265', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012306' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012306, '2042600000266', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012307' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012307, '2042600000226', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012308' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012308, '2042600000267', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012309' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012309, '2042600000268', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:49:27 --> Query error: Duplicate entry '2022100000000012310' for key 'PRIMARY' - Invalid query: INSERT INTO `e_inputnilai` (`inputnilai_id`, `siswa_id`, `komponennilai_id`, `inputnilai_nilai`) VALUES (2022100000000012310, '2042600000227', 2022100000000000465, 80)
+ERROR - 2022-12-06 06:55:44 --> Query error: Unknown column 'm.mapel_tingkat' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND (m.mapel_tingkat = 0 OR m.mapel_tingkat = '6')  AND  m.mapel_nontingkat <> '6' AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 06:55:44 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/proktor/controllers/Ajar.php 0
+ERROR - 2022-12-06 06:59:16 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 06:59:16 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 07:00:40 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 07:00:40 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 07:02:14 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 07:02:14 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 07:14:32 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 07:14:32 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 07:55:38 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 07:55:38 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 07:55:52 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 07:55:52 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 09:23:43 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 09:23:43 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 09:28:23 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 09:28:23 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '70'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '71'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '72'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '74'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '75'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '76'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '77'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '80'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '81'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000083'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000084'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000085'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '73'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 09:28:33 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 09:28:33 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 09:28:40 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 09:28:40 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 09:28:48 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 09:28:48 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 09:29:00 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 09:29:00 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:27:55 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:27:55 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 12:28:12 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:28:12 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 12:28:48 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:28:48 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '70'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '71'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '72'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '73'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '74'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '75'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '76'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '77'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '78'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '79'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '80'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '81'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000083'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000084'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000085'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:56 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:28:56 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '70'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '71'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '72'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '73'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '74'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '75'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '76'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '77'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '78'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '79'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '80'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '81'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000083'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000084'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000085'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:28:57 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '70'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '71'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '72'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '73'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '74'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '75'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '76'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '77'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '78'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '79'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '80'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '81'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000083'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000084'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000085'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:28:57 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '70'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '71'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '72'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '73'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '74'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '75'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '76'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '77'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '78'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '79'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '80'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '81'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000083'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000084'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:57 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000085'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:28:58 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:28:58 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '70'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '71'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '72'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '73'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '74'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '75'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '76'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '77'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '78'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '79'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '80'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '81'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000083'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000084'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000085'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:29:10 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:29:10 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:29:22 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:29:22 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 12:29:55 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:29:55 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '70'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '71'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '72'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '74'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '75'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '76'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '77'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '80'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '81'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000083'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000084'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '2042600000085'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:00 --> Query error: Unknown column 'kurikulum_id' in 'where clause' - Invalid query: SELECT `mapel_pilihan`
+FROM `e_mapel`
+WHERE `mapel_id` = '73'
+AND `kurikulum_id` = '1'
+ERROR - 2022-12-06 12:30:01 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:30:01 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 12:30:30 --> Query error: Duplicate entry 'RXdPSlZGN2lPS3h1cXBFNklLTmZWQT09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);
+ERROR - 2022-12-06 12:30:30 --> Query error: Duplicate entry '2021-1-74-2021100000000000007-5-PH 1' for key 'tahunajaran_id' - Invalid query: ALTER TABLE `e_komponennilai` ADD UNIQUE KEY `tahunajaran_id` (`tahunajaran_id`,`semester_id`,`mapel_id`,`kelas_id`,`jenisnilai_id`,`komponennilai_nama`);
+ERROR - 2022-12-06 12:31:42 --> Query error: Duplicate entry 'RXdPSlZGN2lPS3h1cXBFNklLTmZWQT09OmJUUmtjalJ6TkdoaU1YTTBaREJ1T...' for key 'lembaga_id' - Invalid query: ALTER TABLE `e_siswa` ADD UNIQUE KEY `lembaga_id` (`lembaga_id`,`siswa_nis`);
+ERROR - 2022-12-06 12:31:42 --> Query error: Duplicate entry '2021-1-74-2021100000000000007-5-PH 1' for key 'tahunajaran_id' - Invalid query: ALTER TABLE `e_komponennilai` ADD UNIQUE KEY `tahunajaran_id` (`tahunajaran_id`,`semester_id`,`mapel_id`,`kelas_id`,`jenisnilai_id`,`komponennilai_nama`);
+ERROR - 2022-12-06 12:31:50 --> Query error: Unknown column 'm.mapel_tingkat' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND (m.mapel_tingkat = 0 OR m.mapel_tingkat = '6')  AND  m.mapel_nontingkat <> '6' AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 12:31:50 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/proktor/controllers/Ajar.php 0
+ERROR - 2022-12-06 13:14:32 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 13:14:32 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
+ERROR - 2022-12-06 13:14:43 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 13:14:43 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 13:14:44 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 13:14:44 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 13:14:44 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 13:14:44 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 13:14:45 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 13:14:45 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 13:18:17 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' AND mapel_id <> '4' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 13:18:17 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/models/M_model.php 0
+ERROR - 2022-12-06 13:18:30 --> Query error: Unknown column 'm.kurikulum_id' in 'where clause' - Invalid query: SELECT * FROM e_mapel m, e_jurusan j where m.jurusan_id = j.jurusan_id AND (m.jurusan_id='0' OR m.jurusan_id='0') AND (m.jenjang_id = 0 OR m.jenjang_id = '2') AND m.mapel_induk='0' AND m.kurikulum_id='1' ORDER BY m.mapel_urut ASC
+ERROR - 2022-12-06 13:18:30 --> Severity: error --> Exception: Call to a member function result() on boolean /home/u1447849/public_html/aplikasi/rdm/application/modules/guru/controllers/Walas.php 0
